@@ -145,7 +145,7 @@ Me chamo Osmil Gabriel Dias, tenho 22 anos e sou natural de Porto Feliz. Atualme
       align="left" 
       alt="GitHub Stats" 
       height="230" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmil20&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmil20&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1"
   />
 
 </p>
