@@ -41,14 +41,7 @@ Me chamo Osmil Gabriel Dias, tenho 22 anos e sou natural de Porto Feliz. Atualme
     style="padding-right: 10px;" 
     src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" 
 />
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/12c5de44f7a7e4d79fcf736e34bbd4d0507cc083c60dd7b18b5e88a2883dc885/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" 
-/>
+
 
 <img 
     align="left" 
