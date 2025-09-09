@@ -2,7 +2,7 @@
 
 **`Software Developer - Back-End`**
 
-Me chamo Osmil Gabriel Dias, tenho 22 anos e sou natural de Porto Feliz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do sul. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu linkedin (https://www.linkedin.com/in/osmil-gabriel-dias-b332aa20a/).
+Me chamo Osmil Gabriel Dias, tenho 22 anos e sou natural de Porto Feliz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do sul. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu linkedin https://www.linkedin.com/in/osmil-gabriel-dias-b332aa20a/
 
 <p align="left">
     <a href="https://github.com/Osmil20?tab=repositories&sort=stargazers">
